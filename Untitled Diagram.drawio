@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
+  <diagram name="Page-1" id="E90SE1m6gK_kFvcKd9KT">
+    <mxGraphModel dx="3162" dy="1600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y5xZ98SbnKQHVs05c7k5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1257" y="-587" width="450" height="583" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-2" value="BECOME A NANNY" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-1034" y="-466" width="213" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-4" value="FIND A NANNY" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-1246" y="-466" width="213" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-5" value="Main menu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1246" y="-559" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-7" value="Offers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1164" y="-559" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-8" value="About us" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1082" y="-559" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-9" value="Login for nannies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-990" y="-559" width="70" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-10" value="Log in for parents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-899" y="-559" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-11" value="Find child care" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1208" y="-345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-12" value="&lt;div&gt;I am a nanny&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-990" y="-345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-788" y="-587" width="450" height="583" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-311" y="-587" width="450" height="583" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-16" value="Main menu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-742" y="-565" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-17" value="Main menu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-295" y="-565" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-18" value="Offers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-189" y="-565" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CsPwrGQwaEZzdb89Tcwi-21" value="About us" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-633" y="-565" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-1" value="Baby" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-2" value="Toddler" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-608" y="-460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-3" value="Kids" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-476" y="-460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-4" value="Nanny to go" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-476" y="-289" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-5" value="Full time" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-611" y="-287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-6" value="Special needs" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-7" value="Login for nannies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-533" y="-565" width="70" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-9" value="Log in for parents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-422" y="-565" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-12" value="Login for nannies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="-562" width="70" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-13" value="Log in for parents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-562" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-15" value="Mission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="-456" width="111" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-16" value="How it works for parents?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-458.5" width="111" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-17" value="How it works for nannies?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="-460" width="111" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-991" y="60" width="482" height="645" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-26" value="User Name" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="219" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-27" value="Full Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="283" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-33" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="347" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-34" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="413" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-35" value="Phone Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="475" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-36" value="Location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-931" y="537" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Registration Form&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-938" y="97" width="376" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-38" value="Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-821" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-403" y="140" width="535" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Login Form&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-323.5" y="183" width="376" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-43" value="User Name" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-311" y="308" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-44" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-311" y="375" width="353" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-45" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="464" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.449;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CsPwrGQwaEZzdb89Tcwi-12" target="GxBah5glKiKm2y0q0-6w-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1041" y="-96" as="sourcePoint" />
+            <mxPoint x="-991" y="-146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GxBah5glKiKm2y0q0-6w-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.208;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GxBah5glKiKm2y0q0-6w-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1149" y="-285" as="sourcePoint" />
+            <mxPoint x="-897" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

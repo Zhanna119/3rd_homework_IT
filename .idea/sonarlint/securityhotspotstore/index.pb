@@ -1,0 +1,24 @@
+
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+:
+
+login.html,8\0\8069a16aaa89aa2f982404b0d2c7244c6e283111
+:
+
+styles.css,0\1\01397909c5f00e9fa017aa0ff73335d37fecc70f
+=
+register.html,1\d\1db6aff286d11412de8d4cdf946844a2dcc13e1b
+:
+
+about.html,8\1\8143af03f594989ae71e2d1be57beadf78357d4c
+;
+offers.html,4\6\46eae1a27b1219cc37d36af6615aed0fd2636ba4
+9
+	script.js,3\1\313d6864fa48b411d082f7692efd0c0892788fc4
+=
+api-data.html,5\1\517f7c80ae89f359347f065ae4c7f7d88549db86
+:
+
+scripts.js,8\e\8e28a44cf348c4821ee49ae3286882da2a9d231d
